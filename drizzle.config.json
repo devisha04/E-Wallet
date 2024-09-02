@@ -1,0 +1,8 @@
+
+{
+  "schema": "./utils/schema.jsx",
+  "dialect": "postgresql",
+  "dbCredentials": {
+    "url": "postgresql://Expense-Tracker_owner:HMc6sk5ptTVP@ep-red-dream-a54cqyx9.us-east-2.aws.neon.tech/Expensify?sslmode=require"
+  }
+}
